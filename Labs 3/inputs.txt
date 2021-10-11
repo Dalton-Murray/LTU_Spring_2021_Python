@@ -1,0 +1,8 @@
+Reema Patel, 73, 80, 82, 79, 90
+Daniel Moussa, 99, 100, 100, 98, 100
+John Reynolds, 87, 95, 77, 78, 100
+Sara Jones, 45, 90, 88, 85, 80
+Hussain Ahmad, 58, 45, 70, 68, 75
+Artim Kotov, 70, 72, 35, 80, 93
+Son Li, 89, 80, 90, 97, 93
+Sina Siddiqui, 35, 0, 45, 40, 25

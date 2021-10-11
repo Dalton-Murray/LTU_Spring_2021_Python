@@ -1,0 +1,30 @@
+****************************************************************************************************
+Student 1: Reema Patel
+Average score: 80.8
+
+Student 2: Daniel Moussa
+Average score: 99.4
+
+Student 3: John Reynolds
+Average score: 87.4
+
+Student 4: Sara Jones
+Average score: 77.6
+
+Student 5: Hussain Ahmad
+Average score: 63.2
+
+Student 6: Artim Kotov
+Average score: 70.0
+
+Student 7: Son Li
+Average score: 89.8
+
+Student 8: Sina Siddiqui
+Average score: 29.0
+----------------------------------------------------------------------------------------------------
+Total number of students: 8
+The class average is: 74.65
+The student with the highest average score is: Daniel Moussa
+The student with the lowest average score is: Sina Siddiqui
+****************************************************************************************************

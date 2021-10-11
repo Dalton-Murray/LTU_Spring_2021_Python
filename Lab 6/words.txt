@@ -1,0 +1,4 @@
+easy: cat, eye, sun, mom, guy, joe, ear, bed, net, tie, bow, zoo
+normal: baby, home, food, wind, bird, goat, bone
+difficult: balance, caption, chamber, charity, counsel, explore, freedom
+     
